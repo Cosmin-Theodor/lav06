@@ -1,0 +1,11 @@
+.meniu {
+    display: flex;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fel {
+    flex: 1;
+    padding: 1vw;
+    border-radius: 15vh;
+}  
